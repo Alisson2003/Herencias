@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" modified="2024-05-17T16:45:35.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DC0cSvjhlDRX6TpCscPB" version="24.4.4" type="device">
+  <diagram name="Página-1" id="7a77UAX0uByvuUKBQCN9">
+    <mxGraphModel dx="337" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="85J73JFTlR6E8bPz6m2_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="85J73JFTlR6E8bPz6m2_-9" target="85J73JFTlR6E8bPz6m2_-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-9" value="Figuras geométricas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="240" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-10" value="Nombre" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="85J73JFTlR6E8bPz6m2_-9">
+          <mxGeometry y="26" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-11" value="Lados" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="85J73JFTlR6E8bPz6m2_-9">
+          <mxGeometry y="52" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-12" value="Regular o irregular" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="85J73JFTlR6E8bPz6m2_-9">
+          <mxGeometry y="78" width="240" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.012;exitY=-0.115;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.439;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="85J73JFTlR6E8bPz6m2_-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277.1200000000001" y="105.00999999999999" as="sourcePoint" />
+            <mxPoint x="110" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.35;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="85J73JFTlR6E8bPz6m2_-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="170" as="sourcePoint" />
+            <mxPoint x="414" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-40" value="Triangulo&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-41" value="Base (Float)&lt;div&gt;Altura (Float)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="85J73JFTlR6E8bPz6m2_-40">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-42" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="85J73JFTlR6E8bPz6m2_-40">
+          <mxGeometry y="70" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-43" value="Calcular el area&lt;div&gt;&lt;br&gt;&lt;div&gt;Calcular perimetro&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="85J73JFTlR6E8bPz6m2_-40">
+          <mxGeometry y="78" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-44" value="&lt;div&gt;Cadrilateros&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-45" value="Largo (Float)&lt;div&gt;Ancho (Float)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="85J73JFTlR6E8bPz6m2_-44">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-46" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="85J73JFTlR6E8bPz6m2_-44">
+          <mxGeometry y="70" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-47" value="Calcular el area&lt;div&gt;&lt;br&gt;&lt;div&gt;Calcular perimetro&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="85J73JFTlR6E8bPz6m2_-44">
+          <mxGeometry y="78" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-48" value="&lt;div&gt;Circulo&amp;nbsp;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-49" value="Radio (Float)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="85J73JFTlR6E8bPz6m2_-48">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-50" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="85J73JFTlR6E8bPz6m2_-48">
+          <mxGeometry y="70" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="85J73JFTlR6E8bPz6m2_-51" value="Calcular el area&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Calcular perimetro&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="85J73JFTlR6E8bPz6m2_-48">
+          <mxGeometry y="78" width="160" height="52" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
