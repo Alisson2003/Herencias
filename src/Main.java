@@ -1,6 +1,6 @@
 //Herencia: clase padre a clase hija hereda tidis los campos y métodos de la superclase
 import java.util.Scanner;
-
+//Holaaa :)
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -9,10 +9,12 @@ public class Main {
         Triangulos miFigura3 = new Triangulos();
         Cuadrilateros miFigura4 = new Cuadrilateros();
 
+
         Circulos miFigura5 = new Circulos(3.00);
         Triangulos miFigura6 = new Triangulos(6.00, 8.00);
         Cuadrilateros miFigura7 = new Cuadrilateros(5.00,5.00);
         Cuadrilateros miFigura8 = new Cuadrilateros(5.00,10.00);
+
 
 
         System.out.println("Circulos");
